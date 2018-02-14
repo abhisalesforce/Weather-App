@@ -7,6 +7,7 @@ import BodyBackgroundColor from 'react-body-backgroundcolor';
 export default class App extends Component {
   render() {
     return (
+      
       <BodyBackgroundColor backgroundColor='#FFFF00'>
       <div>
 
